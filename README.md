@@ -14,7 +14,7 @@ Follow the instructions in this link to download OpenCV library: [How to Flash t
 After successfully of OpenCV instillation, follow these steps.
 
 - Make sure that the camera is enable: <br>
-![Capture](https://github.com/user-attachments/assets/45a6a621-289f-4e96-9f66-a90735ccbefa)
+<img src="https://github.com/user-attachments/assets/45a6a621-289f-4e96-9f66-a90735ccbefa" alt="img" width= 500>
 
 - Follow the steps in this website: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
 
@@ -26,13 +26,11 @@ Here how I trained the model:<br>
 
 # Training
 
-![image](https://github.com/user-attachments/assets/16ec4d69-806d-4635-a383-de755fe268ec)
-![image](https://github.com/user-attachments/assets/24016895-9bf4-49bc-b661-146a55ce01cf)
+<img src="https://github.com/user-attachments/assets/16ec4d69-806d-4635-a383-de755fe268ec" alt="img" width= 500>
+
+<img src="https://github.com/user-attachments/assets/24016895-9bf4-49bc-b661-146a55ce01cf" alt="img" width= 500>
 
 # Testing:
-
-
-
 
 https://github.com/user-attachments/assets/5ae3b7c6-64dd-472e-a1c8-733d43c2807c
 
@@ -40,9 +38,8 @@ https://github.com/user-attachments/assets/5ae3b7c6-64dd-472e-a1c8-733d43c2807c
 
 
 It prints the names of people it detects.<br> 
-![image](https://github.com/user-attachments/assets/390f0ae1-4dc2-4f90-a4db-e17b74170dc0)
 
-
+<img src="https://github.com/user-attachments/assets/390f0ae1-4dc2-4f90-a4db-e17b74170dc0" alt="img" width= 500>
 
 
 # Troubleshooting
@@ -98,12 +95,12 @@ pip install face-recognition --no-cache-dir
 
 ## Problem 4: Can't open camera by index / AttributeError: 'NoneType' object has no attribute 'shape'
 
-![image](https://github.com/user-attachments/assets/d79c5068-295d-4d11-a9e3-8b46cc503087)
+<img src="https://github.com/user-attachments/assets/d79c5068-295d-4d11-a9e3-8b46cc503087" alt="img" width= 500>
 
 What I did to solve this problem is very simple:<br>
 I just changed the src= 2 to src= 0 and it works appropriately. <br>
 
-![image](https://github.com/user-attachments/assets/c51ed806-99f2-42cc-ace8-41af7cfa6b8d)
+<img src="https://github.com/user-attachments/assets/c51ed806-99f2-42cc-ace8-41af7cfa6b8d" alt="img" width= 500>
 
 
 
