@@ -76,6 +76,11 @@ then rerun:
 pip install face-recognition --no-cache-dir
 ```
 
+## Problem 4: Can't open camera by index / AttributeError: 'NoneType' object has no attribute 'shape'
+
+![image](https://github.com/user-attachments/assets/d79c5068-295d-4d11-a9e3-8b46cc503087)
+
+
 
 
 
