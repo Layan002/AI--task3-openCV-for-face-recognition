@@ -15,3 +15,7 @@ After successfully of OpenCV instillation, follow these steps.
 
 - Make sure that the camera is enable: <br>
 ![Capture](https://github.com/user-attachments/assets/45a6a621-289f-4e96-9f66-a90735ccbefa)
+
+- Follow the steps in this website: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
+
+
