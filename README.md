@@ -18,7 +18,11 @@ After successfully of OpenCV instillation, follow these steps.
 
 - Follow the steps in this website: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
 
-## Important steps:
+## Important Note:
+- You should sheck the compatibility of your camera. I recommend you to use a webcam as I did since it is so much cheaper than PiCam.<br>
+So, any problem I faced here and you have the same webcam this repo will be very helpful for you to complete your project ❤.<br>
+
+## Important Note:
 Here how I trained the model:<br>
 
 <img src="https://github.com/user-attachments/assets/fa422d53-d8d4-4edc-8a95-c21162db0470" alt="img" width= 500>
@@ -37,7 +41,7 @@ https://github.com/user-attachments/assets/5ae3b7c6-64dd-472e-a1c8-733d43c2807c
 
 
 
-It prints the names of people it detects.<br> 
+It prints the names of people it detects. Here is the name of my sister when she appears on camera.<br> 
 
 <img src="https://github.com/user-attachments/assets/390f0ae1-4dc2-4f90-a4db-e17b74170dc0" alt="img" width= 500>
 
