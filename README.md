@@ -29,6 +29,19 @@ Here how I trained the model:<br>
 ![image](https://github.com/user-attachments/assets/16ec4d69-806d-4635-a383-de755fe268ec)
 ![image](https://github.com/user-attachments/assets/24016895-9bf4-49bc-b661-146a55ce01cf)
 
+# Testing:
+
+
+
+
+https://github.com/user-attachments/assets/5ae3b7c6-64dd-472e-a1c8-733d43c2807c
+
+
+
+
+It prints the names of people it detects.<br> 
+![image](https://github.com/user-attachments/assets/390f0ae1-4dc2-4f90-a4db-e17b74170dc0)
+
 
 
 
