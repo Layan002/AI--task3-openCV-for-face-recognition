@@ -126,6 +126,13 @@ I solved it by installing this library:
 pip install imutils
 ```
 
+## Problem 3: No module named face_recognition
+
+To solve this problem I've installed the following peckage:
+```
+pip install face_recognition
+```
+
 
 
 
