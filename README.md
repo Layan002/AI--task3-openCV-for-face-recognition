@@ -21,7 +21,7 @@ After successfully of OpenCV instillation, follow these steps.
 # Troubleshooting
 Here I will show you the errors I've encountered and how I solved them:
 
-## Problem1: The camera is not detected
+## Problem 1: picamera.exc.PiCameraError: Camera is not enabled
 Since I am using a **webcam** not a **PiCam**, I will change the following code: 
 ``` PYTHON
 import cv2
@@ -110,7 +110,7 @@ Traceback (most recent call last):
 picamera.exc.PiCameraError: Camera is not enabled. Try running 'sudo raspi-config' and ensure that the camera has been enabled.
 ```
 
-## Problem2: No module named imutils
+## Problem 2: No module named imutils
 
 when I tried to train my face using the follwing command:<br>
 ```
