@@ -24,6 +24,13 @@ Here how I trained the model:<br>
 <img src="https://github.com/user-attachments/assets/fa422d53-d8d4-4edc-8a95-c21162db0470" alt="img" width= 500>
 
 
+# Training
+
+![image](https://github.com/user-attachments/assets/16ec4d69-806d-4635-a383-de755fe268ec)
+![image](https://github.com/user-attachments/assets/24016895-9bf4-49bc-b661-146a55ce01cf)
+
+
+
 
 # Troubleshooting
 Here I will show you the errors I've encountered and how I solved them:
@@ -79,6 +86,12 @@ pip install face-recognition --no-cache-dir
 ## Problem 4: Can't open camera by index / AttributeError: 'NoneType' object has no attribute 'shape'
 
 ![image](https://github.com/user-attachments/assets/d79c5068-295d-4d11-a9e3-8b46cc503087)
+
+What I did to solve this problem is very simple:<br>
+I just changed the src= 2 to src= 0 and it works appropriately. <br>
+
+![image](https://github.com/user-attachments/assets/c51ed806-99f2-42cc-ace8-41af7cfa6b8d)
+
 
 
 
