@@ -4,11 +4,11 @@ If you are not familiar with this microcontroller I recommend you to watch video
 
 ## The operating system and getting started
 
-Use the following website as a reference for you to download "Raspain Buster". <br>
-[How to Flash the Old 'Buster' Raspberry Pi OS to a Micro-SD](https://core-electronics.com.au/guides/flash-buster-os-pi/) 
+You should download "Raspain Buster". Anyways, you can find everytning in the next link I will offer to you. <br>
+
 
 # Downloading OpenCV library. 
-Follow the instructions in this link to download OpenCV library: [Object and Animal Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/object-identify-raspberry-pi/)<br>
+Follow the instructions in this link to download OpenCV library: [How to Flash the Old 'Buster' Raspberry Pi OS to a Micro-SD](https://core-electronics.com.au/guides/flash-buster-os-pi/) <br>
 
 # Starting with the Raspberry pi 
 After successfully of OpenCV instillation, follow these steps.
