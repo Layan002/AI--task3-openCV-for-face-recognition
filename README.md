@@ -18,6 +18,13 @@ After successfully of OpenCV instillation, follow these steps.
 
 - Follow the steps in this website: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
 
+## Important steps:
+here how I trained the model:<br>
+
+<img src="https://github.com/user-attachments/assets/fa422d53-d8d4-4edc-8a95-c21162db0470" alt="img" width= 500>
+
+
+
 # Troubleshooting
 Here I will show you the errors I've encountered and how I solved them:
 
