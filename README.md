@@ -18,7 +18,10 @@ After successfully of OpenCV instillation, follow these steps.
 
 - Follow the steps in this website: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
 
-## Troubleshooting
+# Troubleshooting
+Here I will show you the errors I've encountered and how I solved them:
+
+## Problem1: The camera is not detected
 Since I am using a **webcam** not a **PiCam**, I will change the following code: 
 ``` PYTHON
 import cv2
@@ -106,4 +109,24 @@ Traceback (most recent call last):
     "Camera is not enabled. Try running 'sudo raspi-config' "
 picamera.exc.PiCameraError: Camera is not enabled. Try running 'sudo raspi-config' and ensure that the camera has been enabled.
 ```
+
+## Problem2: No module named imutils
+
+when I tried to train my face using the follwing command:<br>
+```
+ cd facial_recognition
+ python train_model.py
+
+```
+I got this error:<br>
+<img src="https://github.com/user-attachments/assets/37bb14b2-e4a5-44d3-9d66-e9c920485f4d" alt="img" width= 500>
+
+I solved it by installing this library:
+```
+pip install imutils
+```
+
+
+
+
 
