@@ -23,7 +23,7 @@ After successfully of OpenCV instillation, follow these steps.
 So, any problem I faced here and you have the same webcam this repo will be very helpful for you to complete your project ❤.<br>
 
 
-<img src="https://github.com/user-attachments/assets/cf3d641a-08c2-450f-96c9-0987bba05d07" alt="img" width= 500>
+<img src="https://github.com/user-attachments/assets/cf3d641a-08c2-450f-96c9-0987bba05d07" alt="img" width= 250>
 
 
 ## Important steps:
