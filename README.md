@@ -11,12 +11,12 @@ You should download "Raspain Buster". Anyways, you can find everytning in the ne
 Follow the instructions in this link to download OpenCV library: [How to Flash the Old 'Buster' Raspberry Pi OS to a Micro-SD](https://core-electronics.com.au/guides/flash-buster-os-pi/) <br>
 
 # Starting with the Raspberry pi 
-After successfully of OpenCV instillation, follow these steps.
+After installing successfully the operating system, follow these steps.
 
 - Make sure that the camera is enable: <br>
 <img src="https://github.com/user-attachments/assets/45a6a621-289f-4e96-9f66-a90735ccbefa" alt="img" width= 500>
 
-- Follow the steps in this website: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
+- Follow the steps in this website to download OpenCV and starting with facial recognition code: [Face Recognition With Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/face-identify-raspberry-pi/)
 
 ## Important note:
 - You should sheck the compatibility of your camera. I recommend you to use a webcam as I did since it is so much cheaper than PiCam.<br>
