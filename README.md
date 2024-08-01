@@ -40,7 +40,11 @@ Here how I trained the model:<br>
 
 # Testing:
 
-https://github.com/user-attachments/assets/5ae3b7c6-64dd-472e-a1c8-733d43c2807c
+
+
+https://github.com/user-attachments/assets/8eda7452-827f-4b91-b9e7-44b7e72df26b
+
+
 
 
 
