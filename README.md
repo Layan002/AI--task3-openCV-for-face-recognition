@@ -1,4 +1,4 @@
-# start
+# starting
 Here I will use raspberry pi to complete this task. <br>
 If you are not familiar with this microcontroller I recommend you to watch videos on youtube to get start with it
 
